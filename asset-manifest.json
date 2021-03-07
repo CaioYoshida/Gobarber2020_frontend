@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Gobarber2020_frontend/static/js/main.542e64a3.chunk.js",
+    "main.js.map": "/Gobarber2020_frontend/static/js/main.542e64a3.chunk.js.map",
+    "runtime-main.js": "/Gobarber2020_frontend/static/js/runtime-main.7253a87a.js",
+    "runtime-main.js.map": "/Gobarber2020_frontend/static/js/runtime-main.7253a87a.js.map",
+    "static/js/2.8fbcb884.chunk.js": "/Gobarber2020_frontend/static/js/2.8fbcb884.chunk.js",
+    "static/js/2.8fbcb884.chunk.js.map": "/Gobarber2020_frontend/static/js/2.8fbcb884.chunk.js.map",
+    "index.html": "/Gobarber2020_frontend/index.html",
+    "precache-manifest.7f6670bf4181d52a48c0db96cb2e3fff.js": "/Gobarber2020_frontend/precache-manifest.7f6670bf4181d52a48c0db96cb2e3fff.js",
+    "service-worker.js": "/Gobarber2020_frontend/service-worker.js",
+    "static/js/2.8fbcb884.chunk.js.LICENSE.txt": "/Gobarber2020_frontend/static/js/2.8fbcb884.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Gobarber2020_frontend/static/media/logo.a49b07ec.svg",
+    "static/media/sign-in-background.png": "/Gobarber2020_frontend/static/media/sign-in-background.6eac314f.png",
+    "static/media/sign-up-background.png": "/Gobarber2020_frontend/static/media/sign-up-background.c4d8f988.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7253a87a.js",
+    "static/js/2.8fbcb884.chunk.js",
+    "static/js/main.542e64a3.chunk.js"
+  ]
+}
