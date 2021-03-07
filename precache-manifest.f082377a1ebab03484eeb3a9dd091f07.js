@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5bd2f78ad97182643c8b790277a3c12",
+    "revision": "d2b6e722398f7f47f50443d043671fa0",
     "url": "/Gobarber2020_frontend/index.html"
   },
   {
